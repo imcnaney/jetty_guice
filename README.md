@@ -2,7 +2,7 @@
 Java server with embedded Jetty and Guice dependency injection.  This is intentionally as simple as possible, for use as a starting point for people (like me) who want something super simple yet powerful.
 
 # Basics
-see [./src/main/java/oe/server/OEServer.java](OEServer.java) to see how it all ties together.
+see `./src/main/java/oe/server/OEServer.java` to see how it all ties together.
 
 # To Run
 `./gradlew runShadow`
