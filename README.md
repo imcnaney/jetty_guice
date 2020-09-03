@@ -8,3 +8,6 @@ see OEServer.java to see how it all ties together.
 `./gradlew runShadow`
 
 Hit http://localhost:8100/ for the one and only API call, and to get a welcome message.
+
+# More notes about running
+See ./notes/build.txt
