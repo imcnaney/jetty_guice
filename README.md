@@ -10,4 +10,4 @@ see OEServer.java to see how it all ties together.
 Hit http://localhost:8100/ for the one and only API call, and to get a welcome message.
 
 # More notes about running
-See ./notes/build.txt
+See (./notes/build.txt)[./notes/build.txt]
