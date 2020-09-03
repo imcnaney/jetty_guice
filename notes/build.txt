@@ -1,0 +1,7 @@
+to build a fat jar (including runtime dependencies) run: ./gradlew shadowJar
+
+to run the fat jar locally run: ./gradlew runShadow
+
+to build a fat application distribution (with start scripts) run: ./gradlew shadowDistZip
+see: https://imperceptiblethoughts.com/shadow/application-plugin/#running-the-shadow-jar
+
